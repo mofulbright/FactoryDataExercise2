@@ -1,0 +1,14 @@
+C:\Users\Morgan\Desktop\Repos\FactoryPatternExercise2\FactoryPatternExercise2\bin\Debug\netcoreapp3.1\FactoryPatternExercise2.exe
+C:\Users\Morgan\Desktop\Repos\FactoryPatternExercise2\FactoryPatternExercise2\bin\Debug\netcoreapp3.1\FactoryPatternExercise2.deps.json
+C:\Users\Morgan\Desktop\Repos\FactoryPatternExercise2\FactoryPatternExercise2\bin\Debug\netcoreapp3.1\FactoryPatternExercise2.runtimeconfig.json
+C:\Users\Morgan\Desktop\Repos\FactoryPatternExercise2\FactoryPatternExercise2\bin\Debug\netcoreapp3.1\FactoryPatternExercise2.runtimeconfig.dev.json
+C:\Users\Morgan\Desktop\Repos\FactoryPatternExercise2\FactoryPatternExercise2\bin\Debug\netcoreapp3.1\FactoryPatternExercise2.dll
+C:\Users\Morgan\Desktop\Repos\FactoryPatternExercise2\FactoryPatternExercise2\bin\Debug\netcoreapp3.1\FactoryPatternExercise2.pdb
+C:\Users\Morgan\Desktop\Repos\FactoryPatternExercise2\FactoryPatternExercise2\obj\Debug\netcoreapp3.1\FactoryPatternExercise2.csproj.AssemblyReference.cache
+C:\Users\Morgan\Desktop\Repos\FactoryPatternExercise2\FactoryPatternExercise2\obj\Debug\netcoreapp3.1\FactoryPatternExercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Morgan\Desktop\Repos\FactoryPatternExercise2\FactoryPatternExercise2\obj\Debug\netcoreapp3.1\FactoryPatternExercise2.AssemblyInfoInputs.cache
+C:\Users\Morgan\Desktop\Repos\FactoryPatternExercise2\FactoryPatternExercise2\obj\Debug\netcoreapp3.1\FactoryPatternExercise2.AssemblyInfo.cs
+C:\Users\Morgan\Desktop\Repos\FactoryPatternExercise2\FactoryPatternExercise2\obj\Debug\netcoreapp3.1\FactoryPatternExercise2.csproj.CoreCompileInputs.cache
+C:\Users\Morgan\Desktop\Repos\FactoryPatternExercise2\FactoryPatternExercise2\obj\Debug\netcoreapp3.1\FactoryPatternExercise2.dll
+C:\Users\Morgan\Desktop\Repos\FactoryPatternExercise2\FactoryPatternExercise2\obj\Debug\netcoreapp3.1\FactoryPatternExercise2.pdb
+C:\Users\Morgan\Desktop\Repos\FactoryPatternExercise2\FactoryPatternExercise2\obj\Debug\netcoreapp3.1\FactoryPatternExercise2.genruntimeconfig.cache
